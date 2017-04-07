@@ -24,7 +24,8 @@ $(call inherit-product, vendor/samsung/m52xq/m52xq-vendor.mk)
 PRODUCT_PACKAGES += \
     FrameworksResDevice \
     SettingsResDevice \
-    SystemUIResDevice
+    SystemUIResDevice \
+    WifiResDevice
 
 # Init files
 PRODUCT_PACKAGES += \
