@@ -1,4 +1,4 @@
-# All blobs are from M526BXXS2CWE3 (T), unless pinned
+# All blobs are from M526BXXU3CWH4 (T), unless pinned
 
 # Audio
 vendor/lib/hw/audio.primary.lahaina.so
@@ -22,8 +22,8 @@ vendor/firmware/bt_nvm_loading.xml
 # Camera
 vendor/lib/hw/camera.qcom.so
 vendor/lib/hw/com.qti.chi.override.so
-vendor/lib64/hw/camera.qcom.so|9b012f825f7f79a2cdcbe809cef56a3832beeb4c
-vendor/lib64/hw/com.qti.chi.override.so|bb92e906eb4ca5678e8dae59a2bd30c6ad79b9f3
+vendor/lib64/hw/camera.qcom.so|9787917d33592673da158a60768cbabe745eb868
+vendor/lib64/hw/com.qti.chi.override.so|abfe329be78a78439c87138f550ee07254cf5817
 vendor/lib/libhypermotion_core.so
 vendor/lib/com.qti.feature2.gs.kodiak.so
 vendor/lib/com.qti.feature2.rt.so
@@ -247,6 +247,7 @@ vendor/lib64/libgf_in_system_lib.so
 
 # Graphics
 vendor/etc/qdcm_calib_data_ss_dsi_panel_S6E3FA9_AMB667UM36_FHD.xml
+vendor/etc/qdcm_calib_data_ss_dsi_panel_S6E3FC3_AMS646YD01_FHD.xml
 vendor/etc/qdcm_calib_data_ss_dsi_panel_S6E3HAB_AMB667AN01_FHD.xml
 vendor/etc/qdcm_calib_data_ss_dsi_panel_SW83109_BF067XMM_FHD.xml
 
