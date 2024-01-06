@@ -314,3 +314,14 @@ vendor/firmware/wlan/m526b/rev3/wpss.mdt|947f21785ad2aebbd0e3c68e53e8e9fa0a27152
 # Wifi firmware (bootloader revision 3) - from M526BRXXU3CWF3 (T)
 vendor/firmware/wlan/m526br/rev3/wpss.b01|48bee1b60184433ed2a0c98894c44cec4d4bac4f
 vendor/firmware/wlan/m526br/rev3/wpss.mdt|ba63f80f341f2df8a8bd75cfb4d15f9341c407b3
+
+# Wifi firmware (bootloader revision 4) - from M526BXXS4CWL2 (T)
+vendor/firmware/wlan/m526b/rev4/wpss.b00|88e732b5cff42ccc634c9e84b21245a65fb55e59
+vendor/firmware/wlan/m526b/rev4/wpss.b01|5754cbb693f1d145d7328a19648989e44ed0c3cb
+vendor/firmware/wlan/m526b/rev4/wpss.b02|3f2cff73962ae499213bd4746c3f023f4e7ba4d1
+vendor/firmware/wlan/m526b/rev4/wpss.b03|e9cc5d295e748d7988bb5cba729da6d2acc07702
+vendor/firmware/wlan/m526b/rev4/wpss.b04|86fa0bfccbbb0de1388a5522b0084532b1f56df1
+vendor/firmware/wlan/m526b/rev4/wpss.b05|34e40286f679a58384d5095231fafa9603ff1bf5
+vendor/firmware/wlan/m526b/rev4/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa707
+vendor/firmware/wlan/m526b/rev4/wpss.b07|4372aacb9af3627e2fcc1193925679e375da5bb6
+vendor/firmware/wlan/m526b/rev4/wpss.mdt|959e1e4fd90b549d8bdbc47cba72337f1b104968
