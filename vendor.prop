@@ -1,5 +1,2 @@
-# Audio
-vendor.voice.path.for.pcm.voip=false
-
 # Bluetooth
 bluetooth.device.default_name=Galaxy M52 5G
