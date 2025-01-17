@@ -1,7 +1,7 @@
 # All blobs are from M526BXXS6CXJ2 (T), unless pinned
 
 # Audio
-vendor/lib/hw/audio.primary.lahaina.so
+vendor/lib/hw/audio.primary.lahaina.so:odm/lib/hw/audio.primary.lahaina.so;MODULE_SUFFIX=_odm
 vendor/lib/libspeakercalibration.so
 vendor/firmware/dax_param.bin
 vendor/firmware/tfa98xx.cnt
