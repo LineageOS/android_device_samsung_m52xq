@@ -278,3 +278,25 @@ vendor/firmware/wlan/m526b/rev6/wpss.b05|f38b129c4f6227477511859a6249a3481c4a07f
 vendor/firmware/wlan/m526b/rev6/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa707
 vendor/firmware/wlan/m526b/rev6/wpss.b07|748df8e5e00a69d9ead466924833f87b525eda7f
 vendor/firmware/wlan/m526b/rev6/wpss.mdt|349a090c624eeb060729d32964a4052e5c0d404b
+
+# Wifi firmware (bootloader revision 7) - from M526BXXS7CYE1 (T)
+vendor/firmware/wlan/m526b/rev7/wpss.b00|60eb610a46716181d440a548521f9182c5571724
+vendor/firmware/wlan/m526b/rev7/wpss.b01|bdb68a4462c5f67b9ad756675a36d62867ca6349
+vendor/firmware/wlan/m526b/rev7/wpss.b02|d865942ae92f563d317af610264075e6251162ba
+vendor/firmware/wlan/m526b/rev7/wpss.b03|2c2030d871feccd359414e700d2add1c4d6a9b40
+vendor/firmware/wlan/m526b/rev7/wpss.b04|c09060e54d291e09809e8db027b986d55cfad9fb
+vendor/firmware/wlan/m526b/rev7/wpss.b05|788b7eba945916e68d231aa8fd9336abd09cae17
+vendor/firmware/wlan/m526b/rev7/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa707
+vendor/firmware/wlan/m526b/rev7/wpss.b07|6fe9e313a35f4d432c68fdfa1852855df85256d0
+vendor/firmware/wlan/m526b/rev7/wpss.mdt|a00853cefdf08a228d42ea7d61a421d3a59b65e2
+
+# Wifi firmware (bootloader revision 7) - from M526BRXXS7CYE1 (T)
+vendor/firmware/wlan/m526br/rev7/wpss.b00|60eb610a46716181d440a548521f9182c5571724
+vendor/firmware/wlan/m526br/rev7/wpss.b01|f27ed20556a96a52e0239a38254d9b7e54b51d44
+vendor/firmware/wlan/m526br/rev7/wpss.b02|d865942ae92f563d317af610264075e6251162ba
+vendor/firmware/wlan/m526br/rev7/wpss.b03|2c2030d871feccd359414e700d2add1c4d6a9b40
+vendor/firmware/wlan/m526br/rev7/wpss.b04|c09060e54d291e09809e8db027b986d55cfad9fb
+vendor/firmware/wlan/m526br/rev7/wpss.b05|788b7eba945916e68d231aa8fd9336abd09cae17
+vendor/firmware/wlan/m526br/rev7/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa707
+vendor/firmware/wlan/m526br/rev7/wpss.b07|6fe9e313a35f4d432c68fdfa1852855df85256d0
+vendor/firmware/wlan/m526br/rev7/wpss.mdt|7dab98198ce8c9d506b6ea19277cdd347446aec8
