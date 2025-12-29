@@ -24,7 +24,8 @@ $(call inherit-product, vendor/samsung/m52xq/m52xq-vendor.mk)
 
 # Init files
 PRODUCT_PACKAGES += \
-    init.m52xq.rc
+    init.m52xq.rc \
+    wifi_firmware_m52xq.rc
 
 # Audio
 PRODUCT_COPY_FILES += \
