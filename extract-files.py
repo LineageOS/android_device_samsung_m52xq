@@ -24,8 +24,6 @@ namespace_imports = [
 
 
 blob_fixups: blob_fixups_user_type = {
-    'vendor/lib64/hw/camera.qcom.so': blob_fixup()
-        .binary_regex_replace(b'ro.boot.flash.locked', b'ro.camera.notify_nfc'),
     'vendor/lib64/hw/com.qti.chi.override.so': blob_fixup()
         .sig_replace(
             '80 06 40 F9 29 79 00 94 80 01 00 34 A2 DB FF D0 C3 DD FF F0 C5 DC FF 90 E6 03 00 2A',
