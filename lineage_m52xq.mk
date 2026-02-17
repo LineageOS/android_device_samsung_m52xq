@@ -46,5 +46,5 @@ PRODUCT_SHIPPING_API_LEVEL := 30
 
 # Vendor fingerprint
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildFingerprint="samsung/m52xqins/m52xq:11/RP1A.200720.012/M526BXXS6CXJ2:user/release-keys" \
-    BuildDesc="m52xqins-user 11 RP1A.200720.012 M526BXXS6CXJ2 release-keys"
+    BuildFingerprint="samsung/m52xqins/m52xq:11/RP1A.200720.012/M526BXXS7CYE1:user/release-keys" \
+    BuildDesc="m52xqins-user 11 RP1A.200720.012 M526BXXS7CYE1 release-keys"
