@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ee3b63c8_5669d27c",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 35721
+      },
+      "writtenOn": "2026-02-17T12:49:42Z",
+      "side": 1,
+      "message": "```suggestion\nm52xq: Move audio HAL to odm\n```",
+      "revId": "a853cf5f7fddf5bc7ffe6a81664f8685ebc88007",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
