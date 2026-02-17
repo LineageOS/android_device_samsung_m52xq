@@ -1,4 +1,4 @@
-# All blobs are from M526BXXS6CXJ2 (T), unless pinned
+# All blobs are from M526BXXS7CYE1 (T), unless pinned
 
 # Audio
 vendor/lib/hw/audio.primary.lahaina.so
@@ -23,8 +23,8 @@ vendor/etc/audconf/OPEN/Handset_cal.acdb
 vendor/firmware/bt_nvm_loading.xml
 
 # Camera
-vendor/lib64/hw/camera.qcom.so|129ef5817e7f92bd64a6a5c2342381ec654e1299
-vendor/lib64/hw/com.qti.chi.override.so|5bf3ed7be5190c5cd8808b0f1c156dbdfa431e59
+vendor/lib64/hw/camera.qcom.so
+vendor/lib64/hw/com.qti.chi.override.so|89809856a8c0f8691b8df5a7c41650cdd5268113|5bf3ed7be5190c5cd8808b0f1c156dbdfa431e59
 vendor/lib64/com.qti.feature2.rt.so
 vendor/lib64/com.qti.feature2.gs.kodiak.so
 vendor/lib64/com.qti.feature2.anchorsync.so
