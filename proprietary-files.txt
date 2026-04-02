@@ -168,6 +168,10 @@ vendor/firmware/tsp_synaptics/s3908_m52xq_sdc.bin
 vendor/firmware/tsp_synaptics/s3908_m52xq_boe.bin:recovery/root/vendor/firmware/tsp_synaptics/s3908_m52xq_boe.bin
 vendor/firmware/tsp_synaptics/s3908_m52xq_sdc.bin:recovery/root/vendor/firmware/tsp_synaptics/s3908_m52xq_sdc.bin
 
+# Wifi
+vendor/firmware/qca6750/bdwlan.elf
+vendor/firmware/qca6750/bdwlan.elf10
+
 # Wifi firmware (bootloader revision 1) - from M526BXXU1CVK1 (T)
 vendor/firmware/wpss.b00|bbbf98507f63f2fbc6f04ed5328d88190de9f124
 vendor/firmware/wpss.b01|8d18b1affbc9f09e254c425abdcd245b36c6ac08
