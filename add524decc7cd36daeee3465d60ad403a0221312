@@ -22,6 +22,30 @@
       },
       "revId": "add524decc7cd36daeee3465d60ad403a0221312",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fe485b3d_09f538c8",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 36296
+      },
+      "writtenOn": "2026-04-03T19:04:29Z",
+      "side": 1,
+      "message": "Hex values still work, Hash is correct.",
+      "parentUuid": "f64e5639_d318b4df",
+      "range": {
+        "startLine": 23,
+        "startChar": 31,
+        "endLine": 23,
+        "endChar": 112
+      },
+      "revId": "add524decc7cd36daeee3465d60ad403a0221312",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
