@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "900f2da9_4893bf1e",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 173,
+      "author": {
+        "id": 36296
+      },
+      "writtenOn": "2026-04-04T16:36:51Z",
+      "side": 1,
+      "message": "These files are missing on the latest m52xq dump.\n```\nvendor/firmware/qca6750/bdwlan.elf1: file not found\nvendor/firmware/qca6750/bdwlan.elf2: file not found\n```\na52sxq and a73xq have the files but they have the identical hash to bdwlan.elf.\nonly gts7fewifi has differrent hashes for all bdwlan files.\nFor the phones, maybe the files are not necessary and can be removed, or we could do a link or copy for m52xq",
+      "range": {
+        "startLine": 172,
+        "startChar": 0,
+        "endLine": 173,
+        "endChar": 35
+      },
+      "revId": "b365544822c5cb4a5a8fd490373a897a82ac484f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
