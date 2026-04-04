@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "82180e65_aa026272",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 36296
+      },
+      "writtenOn": "2026-04-04T16:43:35Z",
+      "side": 1,
+      "message": "The patch fails for some reason.\n```\nexpected to be fixed up, but pre-fixup hash and post-fixup hash are the same\n```",
+      "range": {
+        "startLine": 23,
+        "startChar": 0,
+        "endLine": 23,
+        "endChar": 112
+      },
+      "revId": "b724b59241ac5226928d9392943bcd2984d20ac5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
