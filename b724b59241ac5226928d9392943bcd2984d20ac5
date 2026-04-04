@@ -22,6 +22,30 @@
       },
       "revId": "b724b59241ac5226928d9392943bcd2984d20ac5",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c39d4d42_1347896c",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 4
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 36296
+      },
+      "writtenOn": "2026-04-04T17:41:06Z",
+      "side": 1,
+      "message": "this patch seems to not be active on old vendor blobs as well like M526BXXS6CXJ2, I dumped M526BXXS6CXJ2 again and checked the sha1 and it was identical to the old sha1 so it wasn\u0027t patched. There were no issues with the blob and the property is missing when looking at it with the strings tool.",
+      "parentUuid": "82180e65_aa026272",
+      "range": {
+        "startLine": 23,
+        "startChar": 0,
+        "endLine": 23,
+        "endChar": 112
+      },
+      "revId": "b724b59241ac5226928d9392943bcd2984d20ac5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
