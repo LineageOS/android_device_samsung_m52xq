@@ -160,6 +160,9 @@ vendor/etc/sensors/config/kodiak_lsm6dsm_0.json
 vendor/etc/sensors/config/kodiak_stk3a0x_0.json
 vendor/etc/sensors/config/lsm6dsm_0.json
 
+# Thermal config
+vendor/etc/mercury.json
+
 # Touchscreen firmware
 vendor/firmware/tsp_synaptics/s3908_m52xq_boe.bin
 vendor/firmware/tsp_synaptics/s3908_m52xq_sdc.bin
