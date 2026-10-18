@@ -22,6 +22,30 @@
       },
       "revId": "b365544822c5cb4a5a8fd490373a897a82ac484f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "48d38bc8_784e4b81",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 173,
+      "author": {
+        "id": 25276
+      },
+      "writtenOn": "2026-10-18T12:44:01Z",
+      "side": 1,
+      "message": "I believe there\u0027s something different with the qcacld driver in the M52 stock kernel, or its just older. With the lineage one it seems to only ask for bdwlan.elf:\n\nueventd: firmware: could not find firmware for qca6750/bdwlan.elf\n\nWithout any bdwlan firmware, WiFi dies. Only adding bdwlan.elf seems to be enough for WiFi to work.\n\nI asume the hash is different to the a52sxq/a73xq one because they\u0027re simply newer. m52xq did not receive the update to OUI 6.\n\nI cant seem to find anything regarding the bdwlan.elf10 one; I guess it should be fine shipping the newer bdwlan.elf and bdwlan.elf10 instead of the older ones",
+      "parentUuid": "900f2da9_4893bf1e",
+      "range": {
+        "startLine": 172,
+        "startChar": 0,
+        "endLine": 173,
+        "endChar": 35
+      },
+      "revId": "b365544822c5cb4a5a8fd490373a897a82ac484f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
