@@ -16,6 +16,24 @@
       "message": "What\u0027s the point in putting the overlays in `resource-overlay/device`? IMO `resource-overlay` alone is enough",
       "revId": "ab40c48c5623f8b39931f444339eb68ad72f5431",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f52ec644_01854d59",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25276
+      },
+      "writtenOn": "2026-10-18T15:48:15Z",
+      "side": 1,
+      "message": "Was just wondering the same, the common tree had no such subdir set. Fixed it now.",
+      "parentUuid": "fa2e91b8_fe02255c",
+      "revId": "ab40c48c5623f8b39931f444339eb68ad72f5431",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
