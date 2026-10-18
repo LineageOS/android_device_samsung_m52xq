@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fa2e91b8_fe02255c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 8
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36705
+      },
+      "writtenOn": "2026-10-18T15:45:58Z",
+      "side": 1,
+      "message": "What\u0027s the point in putting the overlays in `resource-overlay/device`? IMO `resource-overlay` alone is enough",
+      "revId": "ab40c48c5623f8b39931f444339eb68ad72f5431",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
