@@ -33,6 +33,23 @@
       "message": "Also, should be in common",
       "revId": "2970a198f368775ea18987a59028efe8b4c861c3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "75dcc069_f629d094",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25276
+      },
+      "writtenOn": "2026-10-19T16:56:52Z",
+      "side": 1,
+      "message": "Fix authorship and move to sm7325-common",
+      "revId": "2970a198f368775ea18987a59028efe8b4c861c3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
