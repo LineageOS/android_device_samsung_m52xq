@@ -16,6 +16,23 @@
       "message": "https://review.lineageos.org/q/Id78f3ac9820b947ca231ad6fde94c564f276786d ?",
       "revId": "2970a198f368775ea18987a59028efe8b4c861c3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a48171d0_a992301b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35850
+      },
+      "writtenOn": "2026-10-19T09:44:22Z",
+      "side": 1,
+      "message": "Also, should be in common",
+      "revId": "2970a198f368775ea18987a59028efe8b4c861c3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
