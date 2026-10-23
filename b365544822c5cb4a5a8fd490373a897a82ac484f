@@ -46,6 +46,30 @@
       },
       "revId": "b365544822c5cb4a5a8fd490373a897a82ac484f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cc225057_f24c47f5",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 173,
+      "author": {
+        "id": 36296
+      },
+      "writtenOn": "2026-10-23T19:29:26Z",
+      "side": 1,
+      "message": "Those were mainy decommonized because their sha1s were differrent across all devices and because the a73xq bdwlan firmware caused wifi issues on gts7fewifi.\nIf the old m52xq firmware causes issues we can either pin the a73xq firmware for it or we don\u0027t decomonize them and instead put them under the seperated Not TARGET_IS_TABLET proprietary files for the phones that was introduced with the gts7fewifi support commit.",
+      "parentUuid": "48d38bc8_784e4b81",
+      "range": {
+        "startLine": 172,
+        "startChar": 0,
+        "endLine": 173,
+        "endChar": 35
+      },
+      "revId": "b365544822c5cb4a5a8fd490373a897a82ac484f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
