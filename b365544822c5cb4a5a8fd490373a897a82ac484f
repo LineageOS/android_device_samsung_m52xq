@@ -70,6 +70,30 @@
       },
       "revId": "b365544822c5cb4a5a8fd490373a897a82ac484f",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8204230b_4b8847e9",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 173,
+      "author": {
+        "id": 25276
+      },
+      "writtenOn": "2026-10-24T13:34:24Z",
+      "side": 1,
+      "message": "I think moving to device-specific bdwlan blobs is fine. Im not noticing any issues on a52sxq and m52xq with their own firmware.",
+      "parentUuid": "cc225057_f24c47f5",
+      "range": {
+        "startLine": 172,
+        "startChar": 0,
+        "endLine": 173,
+        "endChar": 35
+      },
+      "revId": "b365544822c5cb4a5a8fd490373a897a82ac484f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
