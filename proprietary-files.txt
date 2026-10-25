@@ -146,10 +146,10 @@ vendor/etc/qdcm_calib_data_ss_dsi_panel_S6E3FC3_AMS646YD01_FHD.xml
 vendor/etc/qdcm_calib_data_ss_dsi_panel_S6E3HAB_AMB667AN01_FHD.xml
 vendor/etc/qdcm_calib_data_ss_dsi_panel_SW83109_BF067XMM_FHD.xml
 
-# NFC
-vendor/etc/nfc/sec_s3nrn4v_hwreg.bin
-vendor/etc/nfc/sec_s3nrn4v_swreg.bin
-vendor/firmware/nfc/sec_s3nrn4v_firmware.bin
+# NFC - from A528BXXSBGYI4 (U)
+vendor/etc/nfc/sec_s3nrn4v_hwreg.bin|504bd99f6ce9cf7e430b5cd9abb45a85152fb4c7
+vendor/etc/nfc/sec_s3nrn4v_swreg.bin|783eecc19269216b90fba3d1d940736231442fc3
+vendor/firmware/nfc/sec_s3nrn4v_firmware.bin|f745137827f51e89589e0dde3e850834720b95f0
 
 # Sensors
 vendor/etc/sensors/config/kodiak_ak991x_0.json
